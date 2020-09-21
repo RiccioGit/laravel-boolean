@@ -48,6 +48,10 @@
                 font-size: 84px;
             }
 
+            .title-small {
+                font-size: 38px;
+            }
+
             .links > a {
                 color: #636b6f;
                 padding: 0 25px;
@@ -81,7 +85,11 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Laravel by RiccioGit
+                </div>
+
+                <div class="title-small m-b-md">
+                  Use /pasta to see La Molisana's Products
                 </div>
 
                 <div class="links">
